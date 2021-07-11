@@ -1,1 +1,1 @@
-chmod u+rwx one/two/test6.txt
+chmod u+x one/two/test6.txt
