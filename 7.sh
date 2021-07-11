@@ -1,0 +1,1 @@
+chmod u+rwx one/two/test6.txt
