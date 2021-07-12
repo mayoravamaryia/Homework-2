@@ -1,1 +1,1 @@
-top -bn 5 > 1.log
+ls -l ./8.sh > 1.log
