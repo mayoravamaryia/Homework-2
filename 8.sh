@@ -1,1 +1,1 @@
-ls -l ./8.sh > 1.log
+ls -l *.sh 2 > 1.log
