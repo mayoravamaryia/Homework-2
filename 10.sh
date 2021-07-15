@@ -1,2 +1,2 @@
-sort 1.log >> 1.log
+ls -l | sort >> 1.log
  
